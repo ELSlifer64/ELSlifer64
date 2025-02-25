@@ -19,7 +19,6 @@ Actually:
 
 [![img_contact](./img/twitter-light.svg)](https://x.com/4ikol1#gh-light-mode-only)
 [![img_contact](./img/twitter-dark.svg)](https://x.com/4ikol1#gh-dark-mode-only)
-
 &nbsp;&nbsp;
 [![img_contact](./img/instagram-light.svg)](https://instagram.com/pablo.lgr_#gh-light-mode-only)
 [![img_contact](./img/instagram-dark.svg)](https://instagram.com/pablo.lgr_#gh-dark-mode-only)
