@@ -12,7 +12,7 @@ Actually:
 - ⚡ Fun fact : I'am Life-Saver, Boxer and Surfer
 - 📫 How to reach me: Instagram/Discord
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ELSlifer64&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ELSlifer64&theme=onedark)]
 
 ### Connect with me:
 
